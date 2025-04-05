@@ -1,0 +1,35 @@
+# Client-side (React) 
+# Node modules
+node_modules/
+
+# Public directory
+public/
+
+# Source directory
+src/
+
+# Package lock file
+package-lock.json
+
+# Main package file
+package.json
+
+# Client-side build output
+build/
+
+# Server-side
+# Node modules
+node_modules/
+
+# Package lock file
+package-lock.json
+
+# Main package file
+package.json
+
+# Server-specific files and directories
+app.js
+schema/
+routes/
+images/
+controllers/
