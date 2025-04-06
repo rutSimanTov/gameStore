@@ -32,8 +32,8 @@ The main objective of the project is to provide users with an intuitive and conv
 ### Download and Installation 💾
 1.Clone the repository:
    ```sh
-    git clone https://github.com/rutSimanTov/game-store.git
-    cd game-store
+    git clone https://github.com/rutSimanTov/gameStore.git
+    cd gameStore
   ```
 
 2.Install dependencies:
