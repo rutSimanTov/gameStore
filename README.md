@@ -6,7 +6,7 @@
 ## Project Objective 🎯
 The main objective of the project is to provide users with an intuitive and convenient online shopping experience for purchasing children's games. The system allows users to browse games, add items to the shopping cart, make secure purchases, and view their purchase history.
 
-##Features 🌟
+## Features 🌟
 - **User Management**:Registration, login, and user profile management.
 - **Game Catalog:**:Display games by categories, search, and filter options.
 - **Shopping Cart Management:**: Add, update, and remove items from the cart.
