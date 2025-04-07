@@ -46,3 +46,7 @@ The main objective of the project is to provide users with an intuitive and conv
     npm start
     ```
 
+## 💡Contributing
+
+Feel free to contribute by submitting a pull request or raising issues. Your feedback helps improve the application!
+
